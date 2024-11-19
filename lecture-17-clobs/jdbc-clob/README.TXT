@@ -1,7 +1,7 @@
-README: JDBC MYSQL COURSE SOURCE CODE
-=====================================
+README: HOW TO RUN THE APP
+==========================
 
-This directory contains all of the source code used in the course.
+This directory contains all of the code for this lecture.
 
 Setting up the Code
 -------------------
